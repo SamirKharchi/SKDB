@@ -3,7 +3,7 @@ A generic and extentable document database clients library with clean architectu
 It not only protects the downstream code base but also simplifies access to the most common operations without loosing the flexible nature of the original drivers.
 
 # How to use
-TODO
+Basically you only use the classes in the boundary folder. Create instances with factories and work with the given interfaces.
 
 # Samples
 TODO
